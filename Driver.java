@@ -1,4 +1,4 @@
-import Trial1.TupleGenerator;
+import TupleGenerator;
 
 public class Driver {
 
